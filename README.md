@@ -6,15 +6,13 @@ LLM 기반 챗봇의 구조를 이해하고, LangChain·Streamlit을 활용해 �
 
 ## 교육 내용 요약
 
-| 단원명 | 학습시간 | 학습방법 | 주요 내용 |
-|---------|-----------|------------|-------------|
-| 과정소개 (목적) | 1 | 이론 | 과정 목표 및 결과물 소개, LLM 기반 챗봇 개요, LangChain 특징 |
-| 개발 환경 준비 | 1 | 이론/실습 | Python 환경, OpenAI API 키 세팅, LangChain 설치 및 기본 테스트 |
-| LangChain 기본 구조 | 1 | 이론/실습 | LCEL(LangChain Expression Language) 개념, PromptTemplate/Model/OutputParser 실습 |
-| LCEL 실습 | 3 | 실습 | 단순 Q&A 챗봇, 다양한 프롬프트 실습, 구조화된 출력(JSON), ConversationMemory 기반 대화형 챗봇 구현 |
-| 문서 기반 챗봇 | 2 | 실습 | 문서 로딩·분할, 임베딩 생성, 벡터DB(Chroma/FAISS), RetrievalQA 구성 |
-| 웹 UI 연동 및 배포 | 2 | 실습 | Streamlit/Gradio UI 제작, 로컬 테스트, Streamlit Cloud 배포 |
-| 최종 프로젝트 | 2 | 실습/평가 | “나만의 챗봇” 설계·구현·시연 (전공 Q&A, 문서 검색 등) |
+-과정소개 (목적) : 과정 목표 및 결과물 소개, LLM 기반 챗봇 개요, LangChain 특징
+-개발 환경 준비 : Python 환경, OpenAI API 키 세팅, LangChain 설치 및 기본 테스트
+- LangChain 기본 구조: LCEL(LangChain Expression Language) 개념, PromptTemplate/Model/OutputParser 실습 
+- LCEL 실습: 단순 Q&A 챗봇, 다양한 프롬프트 실습, 구조화된 출력(JSON), ConversationMemory 기반 대화형 챗봇 구현 
+- 문서 기반 챗봇 : 문서 로딩·분할, 임베딩 생성, 벡터DB(Chroma/FAISS), RetrievalQA 구성 
+- 웹 UI 연동 및 배포 : Streamlit/Gradio UI 제작, 로컬 테스트, Streamlit Cloud 배포 
+- 개인 프로젝트 : “나만의 챗봇” 설계·구현·시연 (전공 Q&A, 문서 검색 등) 
 
 ---
 
